@@ -142,14 +142,11 @@ ul a {
 
 }
 
-/* @media (max-width: 800px){
-    .price {
-        max-width: 300px;
-        width: 100%;
-        margin: 0 auto;
-        margin-bottom: 10px;
+@media (max-width: 576px){
+    #header-img {
+       display:none;
     }
-} */
+}
 
 .bold-price{
     font-weight: 900;
